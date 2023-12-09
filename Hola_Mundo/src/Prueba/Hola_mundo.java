@@ -4,6 +4,6 @@ public class Hola_mundo {
 	
 	public static void main(String[]args) {
 		
-		System.out.print("Hola mundo");
+		System.out.print("Buenas tardes");
 	}
 }
